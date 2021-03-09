@@ -15,6 +15,7 @@ Materijali za video: https://youtu.be/rlhpiCYG8xE
 - https://www.jetbrains.com/phpstorm/
 - https://dbeaver.io/
 - https://www.sequelpro.com/ (Mac OS)
+- https://www.beekeeperstudio.io/get (Koristi se unutar Linux Lite Virtualbox slike)
 
 
 ### Info
