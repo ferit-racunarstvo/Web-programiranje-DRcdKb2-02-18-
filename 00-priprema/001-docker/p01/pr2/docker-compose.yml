@@ -1,0 +1,18 @@
+version: '3'
+
+services: 
+  api:
+    build: ./api
+    volumes: 
+      - ./api:/usr/src/app
+    ports: 
+      - 3001:80
+  
+  web:
+    image: php:7.2-apache
+    volumes: 
+      - ./web:/var/www/html
+    ports: 
+      - 3000:80
+    depends_on: 
+      - api
