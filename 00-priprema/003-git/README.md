@@ -17,10 +17,21 @@
 #### Koraci rada unutar repozitorija grupne zadaće
 
 ![1](./slike/1.png)
+<hr />
+
 ![2](./slike/2.png)
+<hr />
+
 - Student se odvaja iz dev grane i radi svoj zadatak. Kada završi radi pull request za spajanje svog zadataka na dev granu.
+
 ![3](./slike/3.png)
+<hr />
+
 - TL pregledava napravljeni rad i prihvaća ga ukoliko je sve uredu. Može odbiti ili tražiti naknadne promjene. Kada merge-a u dev granu obavezno mora raditi Squash and Merge kako bi "skupio" sve commitove u jedan glavni commit koji će se nalazit unutar dev grane.
+
 ![4](./slike/4.png)
+<hr />
+
 - Kada su svi zadatci gotovi TL radi pull request na master koji predstavlja produkciju. Prilikom Merge-a radi klasični merge (Merge pull request).
 ![5](./slike/5.png)
+<hr />
