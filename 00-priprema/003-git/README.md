@@ -32,6 +32,6 @@
 ![4](./slike/4.png)
 <hr />
 
-- Kada su svi zadatci gotovi TL radi pull request na master koji predstavlja produkciju. Prilikom Merge-a radi klasični merge (Merge pull request).
+- Kada su svi zadatci gotovi TL radi pull request na main koji predstavlja produkciju. Prilikom Merge-a radi klasični merge (Merge pull request).
 ![5](./slike/5.png)
 <hr />
