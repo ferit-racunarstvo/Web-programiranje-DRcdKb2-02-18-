@@ -2,5 +2,5 @@
 
 Za LV1 potrebno je proučiti:
 
-* materijale 001-docker, 002-heroku u direktoriju 00-priprema.
+* materijale 001-docker, 002-heroku, 003-git u direktoriju 00-priprema.
 * priprema.pdf
