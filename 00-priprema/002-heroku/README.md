@@ -3,7 +3,7 @@
 Materijali za video: https://youtu.be/rlhpiCYG8xE
 
 #### Heroku
--https://www.heroku.com/
+- https://www.heroku.com/
 
 #### Heroku instalacija
 - https://devcenter.heroku.com/articles/heroku-cli
@@ -11,10 +11,10 @@ Materijali za video: https://youtu.be/rlhpiCYG8xE
 #### Heroku deploy s git-om
 - https://devcenter.heroku.com/articles/git
 
-1.  ```heroku login ``` - Unutar repozitorija zadaće (ili bilo kojeg drugog repozitorija za vježbu -
+1.  ```heroku login``` - Unutar repozitorija zadaće (ili bilo kojeg drugog repozitorija za vježbu -
 ako terminal zamrzne kad se logirate, ostavite ga aktivnim i otvorite novi terminal u navedenom direktoriju)
-2.  ```heroku git:remote  -a naziv-vaseg-kreiranog-heroku-appa-iz-dashboarda```
-4.  ```git push heroku master ``` (ili main)
+2.  ```heroku git:remote -a naziv-vaseg-kreiranog-heroku-appa-iz-dashboarda```
+4.  ```git push heroku master``` (ili main)
 
 #### Software-i za pristup i rad s eksternom bazom
 - https://www.jetbrains.com/phpstorm/
