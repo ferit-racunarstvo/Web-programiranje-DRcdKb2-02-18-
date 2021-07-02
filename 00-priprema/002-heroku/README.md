@@ -16,6 +16,12 @@ ako terminal zamrzne kad se logirate, ostavite ga aktivnim i otvorite novi termi
 2.  ```heroku git:remote -a naziv-vaseg-kreiranog-heroku-appa-iz-dashboarda```
 4.  ```git push heroku master``` (ili main)
 
+#### Upravljanje konfiguracijskim varijablama na Heroku (da konfiguracijski podatci ne postoje unutar javnog repozitorija:
+
+- https://devcenter.heroku.com/articles/config-vars#managing-config-vars
+- Kada se inicijaliziraju konfiguracijske varijable putem Heroku app-a ili CLI-a
+  - Primjer dohvaćanja konfiguracijskih varijabli iz PHP-a: ``` $env_var = getenv('MY_VAR'); ```
+
 #### Software-i za pristup i rad s eksternom bazom
 - https://www.jetbrains.com/phpstorm/
 - https://dbeaver.io/
